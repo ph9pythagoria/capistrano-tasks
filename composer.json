@@ -1,0 +1,6 @@
+{
+    "name": "ph9pythagoria/capistrano-tasks",
+    "description": "Capistrano tasks",
+    "keywords": ["capistrano", "deploy"],
+    "homepage": "https://github.com/ph9pythagoria/capistrano-tasks"
+}
